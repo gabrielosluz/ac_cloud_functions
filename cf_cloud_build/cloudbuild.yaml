@@ -7,7 +7,7 @@ steps:
   - cf_cloud_build
   - --region=us-central1
   - --allow-unauthenticated
-  - --source=https://source.developers.google.com/projects/cloud-functions01/repos/github_gabrielosluz_cloud_functions_explore/moveable-aliases/main/paths/cloud_build_demo
+  - --source=https://source.developers.google.com/projects/cloud-functions01/repos/github_gabrielosluz_cloud_functions_explore/moveable-aliases/main/paths/cf_cloud_build
   - --trigger-http
   - --runtime=python39
   - --memory=128MB

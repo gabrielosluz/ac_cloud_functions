@@ -52,7 +52,6 @@ def main(event, context):
         df = pd.read_csv(uri)
 
         df["File_Source"] = file['name']
-        df["Ingestion_Date"] = pd.Timestamp.today().strftime('%Y-%m-%d')
 
         logging.info('Carregando arquivo: "{}" no bucket historico.'.format(file['name']))
 

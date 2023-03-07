@@ -1,0 +1,62 @@
+[
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "player_name",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "club",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "position",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "minutes_played",
+    "type": "INTEGER"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "match_played",
+    "type": "INTEGER"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "goals",
+    "type": "INTEGER"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "assists",
+    "type": "INTEGER"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "distance_covered",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "File_Source",
+    "type": "STRING"
+  },
+  {
+    "description": "",
+    "mode": "NULLABLE",
+    "name": "Ingestion_Date",
+    "type": "DATE"
+  }
+]
